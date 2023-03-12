@@ -6,9 +6,11 @@ html {
 	font-size: 200px;
 	text-align: center;
 }
+.drawingtext {
+	font-size: 200px;
+	text-align: center;
+}
 .drawing {
-	color:blue;	
-	text-align:center;
 	padding:5px;
 	border:5px solid green;
 	width: auto;  
