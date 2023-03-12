@@ -1,3 +1,8 @@
+#pagetitle {
+	color:orangered;	
+	font-size: large;
+	text-align: center;
+}
 .drawing {
 	color:blue;	
 	text-align:center;
@@ -5,3 +10,8 @@
 	width: auto;  
 	height: auto;  
 }
+
+link:hover {
+	color:rgb(51, 174, 42);	 
+}
+
