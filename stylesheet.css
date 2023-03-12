@@ -1,6 +1,7 @@
 .drawing {
-	color:orange;	
-	text-align:center;        
+	color:blue;	
+	text-align:center;
+	margin: auto;
 	padding:20px;
 	width: 300px;  
 	height: auto;  
