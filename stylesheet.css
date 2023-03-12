@@ -1,10 +1,10 @@
 .drawing {
 	color: orange;	
-  	width: 100px,
-  	height: 100px
+	width:auto;
+        padding:20px;
 }
 
-.drawing img {
+img {
   width: 100px,
   height: auto
 }
