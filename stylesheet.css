@@ -1,7 +1,8 @@
 .drawing {
-	color: orange;	
+	color: blue;	
 	width:auto;
-        padding:20px;
+	text-align:center;        
+	padding:20px;
 }
 
 img {
