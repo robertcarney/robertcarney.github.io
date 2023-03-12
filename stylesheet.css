@@ -1,6 +1,6 @@
 #pagetitle {
 	color:orangered;	
-	font-size: large;
+	font-size: xx-large;
 	text-align: center;
 }
 .drawing {
@@ -11,7 +11,7 @@
 	height: auto;  
 }
 
-link:hover {
-	color:rgb(51, 174, 42);	 
+.drawing link:hover {
+	color:rgb(57, 42, 174);	 
 }
 
