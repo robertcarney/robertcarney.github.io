@@ -1,11 +1,11 @@
 .drawing {
-	color: orange;	
-	width:auto;
+	color:orange;	
 	text-align:center;        
 	padding:20px;
+	width: 300px;  
+	height: auto;  
 }
 
 img {
-  width: auto;
-  height: 175px;
+  object-fit: cover;  
 }
