@@ -12,7 +12,7 @@
 	height: auto;  
 }
 
-link:hover {
-	color:rgb(57, 42, 174);	 
+.drawing a:hover {
+	color:yellow;	 
 }
 
