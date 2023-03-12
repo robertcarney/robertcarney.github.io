@@ -1,8 +1,10 @@
 .drawing {
 	color: orange;	
+  	width: 100px,
+  	height: 100px
 }
 
 .drawing img {
-  width: 400px,
-  height: 300px
+  width: 100px,
+  height: auto
 }
