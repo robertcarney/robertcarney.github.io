@@ -1,13 +1,13 @@
 #pagetitle {
 	color:orangered;	
-	font-size: xx-large;
+	font-size: 200px;
 	text-align: center;
 }
 .drawing {
 	color:blue;	
 	text-align:center;
 	padding:20px;
-	border:20px blue;
+	border:20px solid blue;
 	width: auto;  
 	height: auto;  
 }
