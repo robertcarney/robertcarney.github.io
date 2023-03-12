@@ -2,10 +2,6 @@
 	color:blue;	
 	text-align:center;
 	padding:20px;
-	width: 1000px;  
+	width: auto;  
 	height: auto;  
-}
-
-img {
-  object-fit: cover;  
 }
